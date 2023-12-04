@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snoodyk
 - 👀 I’m interested in gaming, chill music and coding.
-- 🌱 I’m currently learning how to code from scratch with code institue.
+- 🌱 I’m currently learning how to code from scratch with code institute.
 
 
 <!---
